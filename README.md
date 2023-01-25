@@ -1,4 +1,4 @@
-## A Vue Application Using A WASM Module With A Function That Takes Struct Pointers For Arguments
+## A Vue/WASM App With A Function That Takes C Struct Pointers For Arguments
 
 This repository contains a simple Vue application that illustrates how to use a WASM module with a function that takes struct pointers for arguments. The WASM module is built using C that has a function that accepts struct pointers for arguments.
 
